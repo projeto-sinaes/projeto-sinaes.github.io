@@ -13,8 +13,8 @@ Nestas aulas, que foram ministradas para os alunos que estão encarregados com o
 Aqui estão alguns registros das nossas capacitações, dinâmicas de programação e atividades práticas de laboratório:
 
 <p align="center">
-  <img src="Caminho/Para/Sua/Foto/aulas-grupo.jpg" alt="Estudantes em Aula Prática" width="45%" />
-  <img src="Caminho/Para/Sua/Foto/bancada-desenvolvimento.jpg" alt="Bancada de Desenvolvimento de Firmware" width="45%" />
+  <img src="https://github.com/projeto-sinaes/projeto-sinaes.github.io/blob/611e14482110cf8760ea1b9d9b53315e12687eb9/Imagens/Image1.jpeg" alt="Estudantes em Aula" width="45%" />
+  <img src="https://github.com/projeto-sinaes/projeto-sinaes.github.io/blob/611e14482110cf8760ea1b9d9b53315e12687eb9/Imagens/Image2.jpeg" alt="Código sendo passado" width="45%" />
 </p>
 <p align="center"><em>[Dica: Substitua os caminhos acima pelas suas fotos dos encontros ou dos alunos codificando!]</em></p>
 

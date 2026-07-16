@@ -16,7 +16,7 @@ Aqui estão alguns registros das nossas capacitações, dinâmicas de programaç
   <img src="https://github.com/projeto-sinaes/projeto-sinaes.github.io/blob/611e14482110cf8760ea1b9d9b53315e12687eb9/Imagens/Image1.jpeg" alt="Estudantes em Aula" width="45%" />
   <img src="https://github.com/projeto-sinaes/projeto-sinaes.github.io/blob/25cca74da257557308095ed4fbb6b024b01b6740/Imagens/Image2.jpeg" alt="Código sendo passado" width="45%" />
 </p>
-<p align="center"><em>[Dica: Substitua os caminhos acima pelas suas fotos dos encontros ou dos alunos codificando!]</em></p>
+
 
 ---
 

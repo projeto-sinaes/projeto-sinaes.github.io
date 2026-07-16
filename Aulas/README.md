@@ -31,9 +31,9 @@ Em vez de utilizarmos soluções simplificadas, entramos de cabeça no **ESP-IDF
 * **Multitarefa com FreeRTOS:** Introdução à programação concorrente, ensinando a dividir o processamento do chip em tarefas inteligentes que rodam de forma independente e simultânea.
 
 <p align="center">
-  <img src="Caminho/Para/Sua/Foto/codigo-funcionamento.gif" alt="Código rodando no ESP32" width="60%" />
+  <img src="https://github.com/projeto-sinaes/projeto-sinaes.github.io/blob/351c3839cd0f1df1f991ee1bd230265a078f1c7e/Imagens/Image3.jpeg" alt="Estudantes em Aula" width="45%" />
+  <img src="https://github.com/projeto-sinaes/projeto-sinaes.github.io/blob/25cca74da257557308095ed4fbb6b024b01b6740/Imagens/Image4.jpeg" alt="Código sendo passado" width="45%" />
 </p>
-<p align="center"><em>[FOTO/GIF: Insira aqui um GIF do terminal do ESP-IDF funcionando ou de um circuito básico operando!]</em></p>
 
 ---
 

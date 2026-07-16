@@ -23,7 +23,7 @@ A engenharia do braço combina mecânica de fluidos e programação embarcada:
 ---
 
 ## O que este projeto ensina na prática?
-* **Princípio de Pascal:** Como a pressão aplicada a um fluido em um ponto fechado é transmitida integralmente para todos os outros pontos (a base de toda a hidráulica moderna)[cite: 3].
+* **Princípio de Pascal:** Como a pressão aplicada a um fluido em um ponto fechado é transmitida integralmente para todos os outros pontos (a base de toda a hidráulica moderna).
 * **Hidrodinâmica:** O comportamento do fluxo de líquidos em canais fechados e sistemas de bombeamento.
 * **Automação e Robótica:** A integração de atuadores mecânicos, sistemas hidráulicos e controle digital.
 
@@ -31,5 +31,5 @@ A engenharia do braço combina mecânica de fluidos e programação embarcada:
 
 ## Destaques e Diferenciais
 * **Controle Eletrônico de Fluidos:** A automação do fluxo hidráulico usando bombas traz uma abordagem inovadora para projetos escolares de baixo custo.
-* **Modularidade e Segurança:** Utiliza água como fluido de trabalho em baixas pressões, tornando o experimento completamente seguro, limpo e adequado para demonstrações em salas de aula e feiras de ciências[cite: 3].
+* **Modularidade e Segurança:** Utiliza água como fluido de trabalho em baixas pressões, tornando o experimento completamente seguro, limpo e adequado para demonstrações em salas de aula e feiras de ciências.
 * **Abordagem Multidisciplinar:** Integração perfeita entre disciplinas como física de fluidos, desenho mecânico, programação e circuitos eletroeletrônicos.

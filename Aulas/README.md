@@ -46,7 +46,6 @@ Projetos de engenharia não vivem apenas em prototeclados e protoboards. Para da
 <p align="center">
   <img src="Caminho/Para/Sua/Foto/impressora-3d.jpg" alt="Impressão de Componentes em 3D" width="50%" />
 </p>
-<p align="center"><em>[FOTO: Insira aqui uma foto bacana da sua Ender 3 S1 imprimindo alguma peça de suporte dos projetos!]</em></p>
 
 ---
 
@@ -57,6 +56,6 @@ A teoria da eletricidade ganha forma quando aprendemos a fixar os componentes de
 * **Montagem de Chicotes Elétricos:** Organização de fios e conexões, garantindo que o acabamento dos projetos escolares seja resistente, durável e visualmente limpo.
 
 <p align="center">
-  <img src="Caminho/Para/Sua/Foto/bancada-solda.jpg" alt="Estudantes Soldando Placas" width="50%" />
+  <img src="https://github.com/projeto-sinaes/projeto-sinaes.github.io/blob/35c6ac9490ef070e7ea6b0ed45ef3630884df82c/Imagens/Image6.jpeg" width="50%" />
 </p>
-<p align="center"><em>[FOTO: Insira aqui um registro bem focado de alguém realizando soldagem ou de uma placa soldada!]</em></p>
+

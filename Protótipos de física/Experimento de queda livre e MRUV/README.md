@@ -1,6 +1,6 @@
 # Experimento de Queda Livre Automatizado
 
-Este protótipo foi desenvolvido como um protótipo educacional interativo para a **IX IFTECH (Campus Paranavaí - 2026)**. Nosso objetivo é transformar a maneira como conceitos abstratos da física de Newton são ensinados nas escolas, substituindo as decorebas de fórmulas por uma experiência prática, visual e altamente tecnológica.
+Este protótipo esta sendo desenvolvido como um protótipo educacional interativo para a **IX IFTECH (Campus Paranavaí - 2026)**. Nosso objetivo é transformar a maneira como conceitos abstratos da física de Newton são ensinados nas escolas, substituindo as decorebas de fórmulas por uma experiência prática, visual e altamente tecnológica.
 
 A proposta une a **Mecatrônica** e a **Física** em um único sistema capaz de medir e demonstrar a aceleração da gravidade de forma extremamente precisa e automatizada.
 

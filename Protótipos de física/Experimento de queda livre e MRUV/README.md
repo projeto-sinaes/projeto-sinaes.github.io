@@ -1,4 +1,4 @@
-# Experimento de Queda Livre Automatizado 📐☄️
+# Experimento de Queda Livre Automatizado
 
 Este protótipo foi desenvolvido como um protótipo educacional interativo para a **IX IFTECH (Campus Paranavaí - 2026)**[cite: 1]. Nosso objetivo é transformar a maneira como conceitos abstratos da física de Newton são ensinados nas escolas, substituindo as decorebas de fórmulas por uma experiência prática, visual e altamente tecnológica[cite: 1].
 

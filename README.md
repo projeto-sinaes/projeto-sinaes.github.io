@@ -1,8 +1,6 @@
 # projeto-sinaes.github.io
 
-# Projeto SINAES
-
-## Soluções Inclusivas para Necessidades de Aprendizagem Específicas
+# Projeto SINAES - Soluções Inclusivas de Apoio ao Ensino e à Aprendizagem
 
 O SINAES é um projeto desenvolvido no Instituto Federal do Paraná – Campus Paranavaí que articula inclusão, educação, ciência e tecnologia na criação de materiais didáticos e protótipos destinados a favorecer diferentes formas de aprendizagem.
 

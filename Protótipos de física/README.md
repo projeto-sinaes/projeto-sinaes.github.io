@@ -18,9 +18,9 @@ O grande objetivo de unir a automação e a eletrônica a essa necessidade pedag
 
 | Projeto | O que ele demonstra? | O lado lúdico da experiência |
 | :--- | :--- | :--- |
-| **[Laboratório de Queda Livre](./Experimento de queda livre e MRUV)** | Gravidade e Movimento Retilíneo Variado (MRUV) | Os alunos controlam um eletroímã para disparar uma esfera e assistem os sensores calculando a gravidade em tempo real. |
-| **[Motor Elétrico Didático](./Motor Desmontável Didático)** | Eletromagnetismo e Circuitos Elétricos | Um motor totalmente desmontável onde as peças e os ímãs podem ser vistos e tocados pelos estudantes. |
-| **[Braço Hidráulico Automatizado](./Braço Hidráulico Automatizado)**| Hidrostática, Hidrodinâmica e Robótica | O controle de água e seringas por meio de botões simples para mover um braço mecânico de forma suave. |
+| **[Laboratório de Queda Livre]** | Gravidade e Movimento Retilíneo Variado (MRUV) | Os alunos controlam um eletroímã para disparar uma esfera e assistem os sensores calculando a gravidade em tempo real. |
+| **[Motor Elétrico Didático]** | Eletromagnetismo e Circuitos Elétricos | Um motor totalmente desmontável onde as peças e os ímãs podem ser vistos e tocados pelos estudantes. |
+| **[Braço Hidráulico Automatizado]**| Hidrostática, Hidrodinâmica e Robótica | O controle de água e seringas por meio de botões simples para mover um braço mecânico de forma suave. |
 
 ---
 

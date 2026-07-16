@@ -61,7 +61,13 @@ As etapas constituem uma orientação geral, e não uma sequência rígida. Conf
 
 ## Projetos em desenvolvimento
 
+Os projetos vinculados ao SINAES são documentados em repositórios próprios, nos quais estão reunidas as informações pedagógicas e técnicas, o percurso de desenvolvimento, os artefatos e os resultados de cada proposta.
 
+| Projeto | Situação | Repositório |
+|---|---|---|
+| Motor Elétrico Didático Desmontável | Em desenvolvimento | [Acessar projeto](https://github.com/projeto-sinaes/motor-eletrico-didatico) |
+
+> Os arquivos destinados à consulta, adaptação ou replicação serão disponibilizados nos respectivos repositórios, acompanhados das orientações de uso, autoria e licenciamento.
 
 ## Instituição
 

@@ -40,7 +40,7 @@ Em vez de utilizarmos soluções simplificadas, entramos de cabeça no **ESP-IDF
 ### 2. Modelagem e Impressão 3D
 Projetos de engenharia não vivem apenas em prototeclados e protoboards. Para dar acabamento profissional e seguro às nossas soluções, as aulas abordam os segredos da manufatura aditiva:
 * **Fatiamento e Configuração:** Ajustes de parâmetros importantes (como velocidade, preenchimento, temperatura e retração) usando fatiadores modernos.
-* **Operação da Ender 3 S1:** Como calibrar a mesa, trocar filamentos e realizar a manutenção básica da impressora para obter peças perfeitas.
+* **Operação da Ender 3 S1 e Ender 3 V3 SE:** Como calibrar a mesa, trocar filamentos e realizar a manutenção básica da impressora para obter peças perfeitas.
 * **Fabricação Digital:** Impressão de gabinetes, suportes, peças mecânicas personalizadas e componentes estruturais que protegem os circuitos dos nossos protótipos de física.
 
 <p align="center">

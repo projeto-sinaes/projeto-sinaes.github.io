@@ -1,4 +1,4 @@
-# Aulas de Introdução ao ESP: Do Código ao Hardware Prático
+# Aulas de Introdução ao ESP
 
 Espaço de capacitação técnica do Projeto SINAES!
 

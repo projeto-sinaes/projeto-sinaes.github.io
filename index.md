@@ -64,7 +64,7 @@ Os projetos vinculados ao SINAES são documentados em repositórios próprios, n
 | Projeto | Situação | Repositório |
 |---|---|---|
 | Motor Elétrico Didático Desmontável | Em desenvolvimento | [Acessar projeto]([https://projeto-sinaes.github.io/motor-eletrico-didatico/]) |
-
+| Motor Elétrico Didático Desmontável | Em desenvolvimento | [Acessar projeto](https://github.com/projeto-sinaes/motor-eletrico-didatico) |
 > Os arquivos destinados à consulta, adaptação ou replicação serão disponibilizados nos respectivos repositórios, acompanhados das orientações de uso, autoria e licenciamento.
 
 ## Instituição

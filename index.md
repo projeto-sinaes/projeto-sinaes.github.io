@@ -64,8 +64,8 @@ Os projetos vinculados ao SINAES são documentados em repositórios próprios, n
 | Projeto | Situação | Repositório |
 |---|---|---|
 | Motor Elétrico Didático Desmontável | Em desenvolvimento | [Conhecer o projeto](https://projeto-sinaes.github.io/motor-eletrico-didatico/) |
-| Sistema Automatizado para Demonstração Experimental da Queda Livre | Em desenvolvimento | [Conhecer o projeto](https://projeto-sinaes.github.io/experimento-queda-livre) |
-| Braço Hidráulico Automatizado | Em desenvolvimento | [Conhecer o projeto](https://projeto-sinaes.github.io/braco-hidraulico-automatizado) |
+| Sistema Automatizado para Demonstração Experimental da Queda Livre | Em desenvolvimento | [Conhecer o projeto](https://projeto-sinaes.github.io/experimento-queda-livre/) |
+| Braço Hidráulico Automatizado | Em desenvolvimento | [Conhecer o projeto](https://projeto-sinaes.github.io/braco-hidraulico-automatizado/) |
 > Os arquivos destinados à consulta, adaptação ou replicação serão disponibilizados nos respectivos repositórios, acompanhados das orientações de uso, autoria e licenciamento.
 
 ## Instituição

@@ -69,12 +69,8 @@ Os projetos vinculados ao SINAES são documentados em repositórios próprios, n
 
 > Os arquivos destinados à consulta, adaptação ou replicação serão disponibilizados nos respectivos repositórios, acompanhados das orientações de uso, autoria e licenciamento.
 
-## Instituição
-
 **Instituto Federal do Paraná – Campus Paranavaí**
 
-Projeto voltado à inclusão, ao protagonismo estudantil e ao desenvolvimento de tecnologias para a aprendizagem.
+--
 
----
-
-*Portal em construção. Os conteúdos serão incluídos e atualizados conforme o desenvolvimento das atividades.*
+*Portal em constante construção. Os conteúdos são incluídos e atualizados conforme o desenvolvimento das atividades.*
